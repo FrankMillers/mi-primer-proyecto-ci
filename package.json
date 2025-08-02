@@ -1,0 +1,9 @@
+{
+  "name": "mi-primer-proyecto-ci",
+  "version": "1.0.0",
+  "description": "Proyecto para aprender CI/CD",
+  "scripts": {
+    "test": "echo 'Ejecutando pruebas...' && echo 'Todas las pruebas pasaron!'",
+    "build": "echo 'Construyendo proyecto...' && echo 'Build completado!'"
+  }
+}
