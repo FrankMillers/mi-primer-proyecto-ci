@@ -1,4 +1,4 @@
-# 🩺 **mi-primer-proyecto-ci**
+# 🩺 **Deep‑learning pipeline to prep medical chest‑X‑ray data, fine‑tune SOTA CNNs for COVID‑19**
 
 > *Deep‑learning pipeline to prep medical chest‑X‑ray data, fine‑tune SOTA CNNs for COVID‑19 detection and launch an interactive **Streamlit** dashboard—all inside one notebook.*
 
